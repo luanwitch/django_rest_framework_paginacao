@@ -2,7 +2,7 @@
 name = "django_rest_framework_paginacao"
 version = "0.1.0"
 description = ""
-authors = "luanvwittchind@gmail.com"
+authors = ["luanvwittchind@gmail.com"]
 readme = "README.md"
 packages = [{include = "django_rest_framework_paginacao"}]
 
